@@ -1,0 +1,136 @@
+{
+    "personal_info": {
+      "name": "Mumbere Darius",
+      "location": "Kampala, Uganda",
+      "career_transition": "From Civil Engineering to Technology",
+      "values": ["Resilience", "Determination", "Passion"],
+      "birthdate": "2000-11-18",
+      "future_net_worth_goal": "100 million USD by 2035"
+    },
+    "education": {
+      "primary_school": {
+        "name": "Good Care Primary School",
+        "exam": "PLE",
+        "score": "8 aggregates",
+        "highlight": "Mumbere showed early academic excellence and a strong foundation in education."
+      },
+      "secondary_school": {
+        "name": "St. Mary's College Lugazi",
+        "s4_score": "14 points",
+        "s6_score": "19 points",
+        "highlight": "Despite facing challenges, Mumbere excelled academically and secured impressive scores, reflecting his determination."
+      },
+      "university": {
+        "first_choice": {
+          "institution": "Makerere University of Business Studies",
+          "course": "International Business",
+          "scholarship": "Government Sponsorship",
+          "decision": "Did not attend",
+          "highlight": "Although he received a government scholarship, Mumbere’s passion for technology led him to pursue a different path."
+        },
+        "second_choice": {
+          "institution": "Kyambogo University",
+          "course": "Civil Engineering",
+          "years_completed": 2,
+          "decision": "Dropped out to pursue technology",
+          "highlight": "Despite making it to university, Mumbere struggled with his choice and eventually dropped out to follow his passion for technology. During his time at Kyambogo, Mumbere faced significant personal challenges, including battling drug and alcohol addiction. However, his determination and resilience saw him through, and he made the brave decision to shift his focus to technology."
+        }
+      },
+      "current_study": {
+        "field": "Technology",
+        "focus": "Full Stack Development, AI/ML, and Civil Engineering integration",
+        "journey": "Driven by an intense passion for technology, Mumbere pivoted to technology, aiming to become the best full stack developer and AI/ML expert by 2035. His journey highlights his unwavering determination to follow his true passion and embrace new challenges."
+      }
+    },
+    "career_and_ambitions": {
+      "current_status": "Junior full stack developer and aspiring AI/ML expert",
+      "career_transition": {
+        "from": "Civil Engineering",
+        "to": "Full Stack Development, AI/ML, and technology innovation",
+        "highlight": "Mumbere’s transition from civil engineering to technology showcases his flexibility, determination, and passion for growth."
+      },
+      "freelancing": {
+        "plans_to_start": "September 2025",
+        "focus": "Freelance full stack development and AI/ML projects",
+        "highlight": "Mumbere has already started laying the groundwork for freelancing, focusing on learning full stack development, AI/ML, and other relevant technologies."
+      },
+      "entrepreneurial_ambitions": {
+        "goals": [
+          "Achieve a net worth of 100 million USD by 2035",
+          "Contribute to the tech community by mentoring others and building innovative products"
+        ],
+        "highlight": "Mumbere’s financial and entrepreneurial goals reflect his burning desire for success, along with his ambition to have a significant impact on the tech world."
+      }
+    },
+    "character_traits": {
+      "resilience": {
+        "description": "Mumbere has consistently demonstrated resilience throughout his journey. From excelling in primary school to overcoming personal struggles, including addiction while at Kyambogo, Mumbere's ability to persist through hardships has been a core part of his character."
+      },
+      "determination": {
+        "description": "Mumbere's determination to succeed, even in the face of adversity, has been key to his journey. He showed this through his transition from civil engineering to technology, choosing his passion over societal expectations. His resilience through addiction and subsequent recovery further exemplifies his determination."
+      },
+      "passion": {
+        "description": "Mumbere's passion for technology is a driving force behind his decision to leave civil engineering behind and pursue full stack development and AI/ML. His excitement for learning, his commitment to consistent practice, and his focus on achieving mastery in these fields show his deep passion for his work."
+      }
+    },
+    "future_goals": {
+      "short_term": {
+        "goals": [
+          "Master full stack development and AI/ML to a level that sets him apart in the industry.",
+          "Transition into freelancing by 2025, gaining hands-on experience in full stack development and AI/ML.",
+          "Develop and launch personal projects, including a financial management app, diary app, and other tools for real-world applications."
+        ],
+        "highlight": "Mumbere is positioning himself to gain substantial freelance work by honing his skills and consistently learning and applying new technologies."
+      },
+      "long_term": {
+        "goals": [
+          "Become an expert in full stack development and AI/ML, reaching the top tier of the field by 2035.",
+          "Achieve a net worth of $100 million by 2035 through freelancing, investments, and creating technology-driven ventures.",
+          "Mentor young developers and contribute significantly to the global tech community through knowledge-sharing and innovation."
+        ],
+        "highlight": "Mumbere’s long-term vision focuses on mastery in technology, financial independence, and leaving a positive legacy through mentorship and innovation."
+      }
+    },
+    "key_values": {
+      "dedication": "Mumbere’s dedication to his craft is evident in his daily study schedule and his commitment to learning and growth.",
+      "growth_mindset": "Mumbere continually strives to improve, embracing challenges as opportunities to grow both personally and professionally.",
+      "persistence": "Mumbere has never allowed setbacks to derail his ambitions. His persistence in overcoming addiction and his drive to pivot to technology showcase his never-give-up attitude."
+    },
+    "personal_life": {
+      "challenges_overcome": [
+        "Addiction to drugs and alcohol during university years, demonstrating a significant period of personal struggle that Mumbere managed to overcome with resilience and determination.",
+        "Dropping out of university to pursue a different path, a bold move that showcases Mumbere’s willingness to follow his true passion despite challenges."
+      ],
+      "life_philosophy": "Mumbere believes in constant self-improvement, resilience through adversity, and staying true to one’s passions despite obstacles. He views challenges as stepping stones to success."
+    },
+    "friends_at_kyambogo": [
+      "Muhasa Moris",
+      "Muhindo Collin",
+      "Donah Comfort",
+      "Masereka Apipawe Enoch",
+      "Musoki Eunice",
+      "Kiima Jovia",
+      "Baluku Neckson"
+    ],
+    "Nickname of Musoki Eunice":[
+        "Pongosa"
+    ],
+    "projects": [
+      {
+        "name": "Financial Management and Investment App",
+        "description": "An app to help users manage finances and track investments, promoting smarter money-saving habits.",
+        "status": "Planning stage, with plans to develop after further learning in Django and React."
+      },
+      {
+        "name": "Diary App with KivyMD",
+        "description": "A personal diary application to store and organize thoughts, memories, and important notes.",
+        "status": "Planning to develop after learning KivyMD, an important project for personal growth and portfolio building."
+      },
+      {
+        "name": "Social Media App using PhoneGap",
+        "description": "A mobile app that allows users to connect and share content in a social media format.",
+        "status": "Not yet started, part of future project roadmap."
+      }
+    ]
+  }
+  
